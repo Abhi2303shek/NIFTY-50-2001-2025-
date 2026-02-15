@@ -5,6 +5,8 @@
 Financial markets generate massive amounts of daily trading data, but raw OHLC (Open-High-Low-Close) data alone does not provide actionable insights.
 The goal of this project is to analyse historical **NIFTY 50 index data (2000-2025)** using pure SQL and uncover patterns related to market behaviour, volatility, trading activity, and seasonality.
 
+### You can download this dataset from the official NSE website, year by year: https://www.nseindia.com/reports-indices-historical-index-data
+
 This project demonstrates how SQL can be used alone for real-world financial analytics, eliminating the need for Excel, Python, or BI tools.
 
 ## 📂 Dataset
